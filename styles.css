@@ -146,3 +146,28 @@ margin: 100px 0;
   background-image: linear-gradient(to bottom, #a3d2ca, #206a5d);
   text-decoration: none;
 }
+@media(max-width: 768px) {
+  .topsqr{
+    padding-top: 60px;
+    width: 100%;
+  }
+  .mountain{
+    display: none;
+  }
+  .cloud2{
+    float: right;
+  }
+  .cloud1{
+    float: right;
+  }
+  h1{
+  margin-top: 90px;
+  margin-bottom: 0;
+  font-size: 5.625rem;
+  color:#206a5d;}
+ h3{
+   line-height: 1;
+ }
+ .skill2{
+   margin-left: 0;
+}
