@@ -146,7 +146,7 @@ margin: 100px 0;
   background-image: linear-gradient(to bottom, #a3d2ca, #206a5d);
   text-decoration: none;
 }
-@media(max-width: 768px) {
+@media(max-width: 1000px) {
   .topsqr{
     padding-top: 60px;
     width: 100%;
@@ -190,5 +190,12 @@ margin: 100px 0;
   margin-bottom: 0px;
 width: 350px;
 margin-top: 48px;
+}
+.footer-link{
+  margin-left: 0;
+  margin-right: 0.5rem;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  color: white;
 }
 }
